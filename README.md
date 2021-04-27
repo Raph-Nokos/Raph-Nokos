@@ -23,4 +23,4 @@ I work on three projects in team :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raph-Nokos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raph-Nokos&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raph-Nokos&count_private=true&show_icons=true&theme=dark)
