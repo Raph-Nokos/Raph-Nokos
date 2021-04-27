@@ -5,13 +5,13 @@ I did a formation at the Wild Code School to gain experience and develop my tech
 I work on three projects in team : 
 
 ### - Minimal-Vrac
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=projet3-vrac-front&theme=dark)](https://github.com/Raph-Nokos/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=projet3-vrac-front&theme=dark&hide_border=true)](https://github.com/Raph-Nokos/github-readme-stats)
 
 ### - Green Solution
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=remote-js-202011-green-solution&theme=dark)](https://github.com/Raph-Nokos/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=remote-js-202011-green-solution&theme=dark&hide_border=true)](https://github.com/Raph-Nokos/github-readme-stats)
 
 ### - Shake It Yourself
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=CodeMeMore-project-1-Cocktail&theme=dark" alt="https://github.com/Raph-Nokos/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=CodeMeMore-project-1-Cocktail&theme=dark&hide_border=true" alt="https://github.com/Raph-Nokos/github-readme-stats">
 
 ---
 
@@ -23,6 +23,6 @@ I work on three projects in team :
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raph-Nokos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raph-Nokos&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raph-Nokos&count_private=true&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raph-Nokos&count_private=true&show_icons=true&theme=dark&hide_border=true)
