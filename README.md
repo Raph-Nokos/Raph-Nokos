@@ -5,8 +5,7 @@ I did a formation at the Wild Code School to gain experience and develop my tech
 I work on three projects in team : 
 
 ### - Minimal-Vrac
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=
-remoteFR-R2dwild-P3-vracmini-front-1&theme=dark&hide_border=true)](https://github.com/Raph-Nokos/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=remoteFR-R2dwild-P3-vracmini-front-1&theme=dark&hide_border=true)](https://github.com/Raph-Nokos/github-readme-stats)
 
 ### - Green Solution
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Raph-Nokos&repo=remote-js-202011-green-solution&theme=dark&hide_border=true)](https://github.com/Raph-Nokos/github-readme-stats)
